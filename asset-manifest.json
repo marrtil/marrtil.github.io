@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1ce131b.css",
-    "main.js": "/static/js/main.e456a74f.js",
+    "main.css": "/static/css/main.c0faf9ca.css",
+    "main.js": "/static/js/main.3148d08d.js",
     "static/media/피자.png": "/static/media/피자.6cb6faf7b185056bca8d.png",
     "static/media/초콜릿.png": "/static/media/초콜릿.23a73b0aed8d787792e0.png",
     "static/media/수박.png": "/static/media/수박.e6f04cde931ff183b73e.png",
@@ -11,11 +11,11 @@
     "static/media/치킨.png": "/static/media/치킨.15c96f96b448aec4738f.png",
     "static/media/치즈.png": "/static/media/치즈.7ddacace41843b9a325a.png",
     "index.html": "/index.html",
-    "main.e1ce131b.css.map": "/static/css/main.e1ce131b.css.map",
-    "main.e456a74f.js.map": "/static/js/main.e456a74f.js.map"
+    "main.c0faf9ca.css.map": "/static/css/main.c0faf9ca.css.map",
+    "main.3148d08d.js.map": "/static/js/main.3148d08d.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1ce131b.css",
-    "static/js/main.e456a74f.js"
+    "static/css/main.c0faf9ca.css",
+    "static/js/main.3148d08d.js"
   ]
 }
